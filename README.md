@@ -3,7 +3,7 @@
 # In Case In if deployment link does not work you can fork it and see.
 1. fork (git clone)
 2. nmp install
-3 npm start
+3. npm start
 
 
 # Screenshots
