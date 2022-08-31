@@ -10,9 +10,10 @@
 
 <img width='100%' src="https://ca.slack-edge.com/T03QSVDQAMU-U03R6C3NR7V-9a410e0f7fa0-512" />
 :
-https://drive.google.com/file/d/115bVVMINcVD6VmHksYsFHtNZvrRTOc1o/view?usp=sharing
+<img width='100%' src="https://imgur.com/Ckdwklv" />
+:
+<img width='100%' src="https://ca.slack-edge.com/T03QSVDQAMU-U03R6C3NR7V-9a410e0f7fa0-512" />
 
-https://drive.google.com/file/d/1Ua76LvLrPxLQS5BaS1wgx7v1D1-B0XUP/view?usp=sharing
 
 
 
