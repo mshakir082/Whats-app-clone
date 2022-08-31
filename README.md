@@ -2,7 +2,7 @@
 # Netlify link:- https://whats-app-clone-39724.web.app/
 # In Case In if deployment link does not work you can .
 1. fork (git clone)
-2. nmp install
+2. npm install
 3. npm start
 
 
