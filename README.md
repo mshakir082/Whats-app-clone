@@ -7,7 +7,7 @@
 
 # Screenshots
 
-<img width='100%' src="https://drive.google.com/file/d/1Y5O6iLyU7Jw54urWbtXr_2UiH76L86cn/view?usp=sharing" >
+<img width='100%' src="https://drive.google.com/file/d/1Y5O6iLyU7Jw54urWbtXr_2UiH76L86cn/view?usp=sharing" />
 :
 https://drive.google.com/file/d/115bVVMINcVD6VmHksYsFHtNZvrRTOc1o/view?usp=sharing
 
