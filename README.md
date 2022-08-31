@@ -1,9 +1,13 @@
-# Whatsapp Web Clone
-
-What's up web clone with whatsapp web like UI and functionalities build using react.js and firebase.
+# What's up web clone with whatsapp web like UI and functionalities build using react.js and firebase.
+# Netlify link:- https://whats-app-clone-39724.web.app/
+# In Case In if deployment link does not work you can fork it and see.
+1. fork (git clone)
+2. nmp install
+3 npm start
 
 # Screenshots
-https://drive.google.com/file/d/1Y5O6iLyU7Jw54urWbtXr_2UiH76L86cn/view?usp=sharing
+
+<img width='100%' src="https://drive.google.com/file/d/1Y5O6iLyU7Jw54urWbtXr_2UiH76L86cn/view?usp=sharing" >
 :
 https://drive.google.com/file/d/115bVVMINcVD6VmHksYsFHtNZvrRTOc1o/view?usp=sharing
 
