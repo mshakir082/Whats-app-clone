@@ -10,9 +10,9 @@
 
 <img width='100%' src="https://ca.slack-edge.com/T03QSVDQAMU-U03R6C3NR7V-9a410e0f7fa0-512" />
 :
-<img width='100%' src="https://imgur.com/a/1gewsbH" />
+<img width='100%' src="https://i.imgur.com/Ckdwklv.png" />
 :
-<img width='100%' src="https://ca.slack-edge.com/T03QSVDQAMU-U03R6C3NR7V-9a410e0f7fa0-512" />
+<img width='100%' src="https://i.imgur.com/eogAYiA.png" />
 
 
 
